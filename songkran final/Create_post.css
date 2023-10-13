@@ -1,0 +1,70 @@
+ .u-section-1 {
+  background-image: url("images/v46pmk.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 640px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  margin: 39px 570px 0 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 447px;
+  margin: 40px 0 60px 55px;
+}
+
+.u-section-1 .u-form-group-1 {
+  margin-top: auto !important;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-top: auto !important;
+}
+
+.u-section-1 .u-btn-1 {
+  padding: 9px 33px 11px 32px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 528px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 404px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 350px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 303px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 170px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 191px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+}
